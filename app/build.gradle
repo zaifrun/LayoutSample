@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.layoutsample"
-        minSdkVersion 18
-        targetSdkVersion 19
+        minSdkVersion 16
+        targetSdkVersion 23
     }
 
     buildTypes {
