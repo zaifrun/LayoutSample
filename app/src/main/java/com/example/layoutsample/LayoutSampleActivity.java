@@ -1,5 +1,6 @@
 package com.example.layoutsample;
 
+//added even more new comments 
 
 import android.app.Activity;
 import android.os.Bundle;
