@@ -46,3 +46,5 @@ app/build/intermediates/transforms/
 app/build/outputs/apk/
 app/build/tmp/
 build/
+.gradle/2.14.1/
+projectFilesBackup/
